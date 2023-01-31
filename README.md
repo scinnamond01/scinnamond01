@@ -8,10 +8,15 @@
 - 🌱 &nbsp; Learning more about AWS Cloud services.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp; Q | SQL 
+- 🛢 &nbsp; KDB | SQL Server | AWS
+- 🔧 &nbsp; Git | Docker | Unix
+- 🌐 &nbsp; HTML | CSS 
   
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/scinnamond01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scinnamond01&theme=buefy&show_icons=true" />
 </a>
 
