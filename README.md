@@ -13,15 +13,7 @@
 - 🛢 &nbsp; KDB | SQL Server | AWS
 - 🔧 &nbsp; Git | Docker | Unix
 - 🌐 &nbsp; HTML | CSS 
-  
-<br/>
-
-<a href="https://github.com/scinnamond01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scinnamond01&theme=buefy&show_icons=true" />
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/shaun-cinnamond-877a5866/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/in/shaun-cinnamond-877a5866/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100" /></a>
